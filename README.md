@@ -3,7 +3,6 @@
 💻 Passionate about web development and full-stack technologies.<br>
 🌱 Currently exploring backend development, databases, and cloud technologies.<br>
 🚀 Aspiring software developer with experience in React, Node.js, and MongoDB.<br>
-📫 How to reach [sillavenkatathulasinath@gmail.com](mailto:sillavenkatathulasinath@gmail.com)
 
 ---
 
@@ -29,8 +28,8 @@
 ---
 
 ## 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkat-profile/)
-[![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white)](mailto:venkat.email@example.com)
+[![LinkedIn](https://www.linkedin.com/in/iamthulasinath)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white)](mailto:sillavenkatathulasinath@gmail.com)
 
 ---
 
