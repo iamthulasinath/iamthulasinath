@@ -21,9 +21,9 @@
 ---
 
 ## 📊 GitHub Stats:
-![Venkat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=venkat-username&show_icons=true&theme=radical)
+![Venkat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamthulasinath&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=venkat-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamthulasinath&layout=compact&theme=radical)
 
 ---
 
